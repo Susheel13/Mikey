@@ -1,2 +1,6 @@
-Hello There,
-This is the first github session for 1st year students
+#include<stdio.h>
+int main()
+{
+printf("hello hactoberfest");
+return 0;
+}
